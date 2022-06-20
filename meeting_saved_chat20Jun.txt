@@ -1,0 +1,190 @@
+19:02:21 From  Mensa_Loveable  to  Everyone:
+	I'm seeing shege o
+19:02:25 From  Mensa_Loveable  to  Everyone:
+	as in
+19:02:42 From  Mensa_Loveable  to  Everyone:
+	i'ts getting tougher but i like it that way sir
+19:03:09 From  Naomi Frank-Opigo  to  Everyone:
+	yeah... it's getting tough but we move
+19:03:23 From  kelvin mwaka  to  Everyone:
+	Hi everyone
+19:04:44 From  Lawrence Krukrubo  to  Everyone:
+	Python
+19:04:48 From  Lawrence Krukrubo  to  Everyone:
+	SQL
+19:04:56 From  Lawrence Krukrubo  to  Everyone:
+	Structured Query Language
+19:05:04 From  Lawrence Krukrubo  to  Everyone:
+	Power BI
+19:05:34 From  Lawrence Krukrubo  to  Everyone:
+	Tableau
+19:07:52 From  Lawrence Krukrubo  to  Everyone:
+	ETL
+19:14:17 From  Gberbie Derick  to  Everyone:
+	Gberbie Derick Tsatsu
+19:14:32 From  Otiti Emmanuel  to  Everyone:
+	Emmanuel Waribo Otiti
+19:14:32 From  Murhula Mwambali  to  Everyone:
+	Murhula Mwambali Bienfait
+19:14:36 From  Nndweleni Sundani  to  Everyone:
+	Nndweleni Sundani
+19:14:38 From  kelvin mwaka  to  Everyone:
+	KELVIN MWAKA MUIA
+19:14:38 From  Mark Okaba  to  Everyone:
+	Mark Okaba
+19:14:40 From  Abdullah Ajao  to  Everyone:
+	ABdullah Ajao
+19:14:41 From  biney derick  to  Everyone:
+	Biney Derick
+19:14:41 From  aguocha gerald  to  Everyone:
+	Aguocha Gerald
+19:14:42 From  Mensa_Loveable  to  Everyone:
+	Abdullahi Adedayo
+19:14:43 From  Jane Mutende  to  Everyone:
+	Jane Wandabwa Mutende.
+19:14:46 From  courtney gallant  to  Everyone:
+	Courtney Gallant
+19:14:48 From  Annabella Blankson  to  Everyone:
+	Annabella Blankson
+19:14:48 From  Abdulmalik Ismail  to  Everyone:
+	Abdulmalik Ismail
+19:14:50 From  Ajirotutu Afolabi  to  Everyone:
+	Ajirotutu Lukmon Afolabi
+19:14:59 From  Hubert  to  Everyone:
+	Hubert Ovie Madise
+19:15:08 From  Leketama  to  Everyone:
+	Motselisi Leketa
+19:16:36 From  Mensa_Loveable  to  Everyone:
+	some of the code given in the Udacity worksheet is not working
+19:16:50 From  Mensa_Loveable  to  Everyone:
+	so sound understanding is not there
+19:17:36 From  Mensa_Loveable  to  Everyone:
+	okay sir
+	i'll bring it noe sir
+19:17:37 From  Otiti Emmanuel  to  Everyone:
+	I've not been able to load the tweet-json.txt uptill now..don't know what am really doing wrong
+19:17:58 From  Naomi Frank-Opigo  to  Everyone:
+	Naomi Ayibaemi Frank-Opigo
+19:18:22 From  aguocha gerald  to  Everyone:
+	I downloaded mine from Udacity, hope that's okay
+19:18:56 From  Percy Chukwudi  to  Everyone:
+	Percy Chukwudi
+19:19:13 From  Mensa_Loveable  to  Everyone:
+	# Inspect unidentifiable images and download them individually
+	for rank_title, images in image_errors.items():
+	    if rank_title == '22_A_Hard_Day%27s_Night_(film)':
+	        url = 'https://upload.wikimedia.org/wikipedia/en/4/47/A_Hard_Days_night_movieposter.jpg'
+	    if rank_title == '53_12_Angry_Men_(1957_film)':
+	        url = 'https://upload.wikimedia.org/wikipedia/en/9/91/12_angry_men.jpg'
+	    if rank_title == '72_Rosemary%27s_Baby_(film)':
+	        url = 'https://upload.wikimedia.org/wikipedia/en/e/ef/Rosemarys_baby_poster.jpg'
+	    if rank_title == '93_Harry_Potter_and_the_Deathly_Hallows_–_Part_2':
+	        url = 'https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg'
+	    title = rank_title[2:]
+	    df_list.append({'ranking': int(title_list.index(title) + 1),
+	                    'title': title,
+	                    'poster_url': url})
+	    r = requests.get(url)
+	    # Download movie poster image
+	    i = Image.open(BytesIO(r.content))
+	    image_file_format = u
+19:19:35 From  Mensa_Loveable  to  Everyone:
+	i'm having issues at line 14
+19:19:52 From  Mensa_Loveable  to  Everyone:
+	yes sir
+19:20:02 From  Mensa_Loveable  to  Everyone:
+	thank you sir
+19:20:10 From  Abdullah Ajao  to  Everyone:
+	I have issue with the image prediction data, I dnt understand data and I am nit I will be using any of the data from that table
+19:20:28 From  S. Boadi  to  Everyone:
+	Samuel Duah Boadi
+19:21:00 From  Abdullah Ajao  to  Everyone:
+	thr project
+19:21:03 From  kelvin mwaka  to  Everyone:
+	Sir, I have an issue with my twitter API client and access tokens.
+19:21:46 From  aguocha gerald  to  Everyone:
+	mine gave me a could not authenticate you error.
+19:22:11 From  Percy Chukwudi  to  Everyone:
+	Please, if one doesn't meet the June 28th deadline, will it result in revoking?
+19:22:32 From  aguocha gerald  to  Everyone:
+	no I used the data set on  udacity
+19:25:00 From  Nndweleni Sundani  to  Everyone:
+	I have been able to download the twitter data programmatically, and write the info into the json file. But my tweet_json.txt files has a little fewer rows than the udacity tweet_json.txt
+19:26:11 From  Nndweleni Sundani  to  Everyone:
+	Alright thanks, i will do that
+19:26:45 From  Naomi Frank-Opigo  to  Everyone:
+	please I didn't get the last question... I was logged out
+19:29:24 From  Zablon Rioba  to  Everyone:
+	zablon rioba
+19:30:22 From  aguocha gerald  to  Everyone:
+	I used for loops fo read it line by line
+19:30:56 From  Mensa_Loveable  to  Everyone:
+	readlines
+19:40:00 From  Sboniso Mjaja  to  Everyone:
+	Sboniso Mjaja
+19:40:39 From  Zablon Rioba  to  Everyone:
+	looker
+19:49:26 From  Naomi Frank-Opigo  to  Everyone:
+	Do hard things
+19:50:09 From  Timiebi Agunoweh  to  Everyone:
+	Agunoweh Timiebi
+20:03:38 From  Umutoni Gaëlle  to  Everyone:
+	Umutoni Gaelle
+20:04:26 From  Kayode Adedeji  to  Everyone:
+	Kayode Adedeji
+20:07:47 From  Moses Bernard  to  Everyone:
+	Moses Bernard
+20:15:40 From  Joshua Nyajuaya  to  Everyone:
+	Joshua Abok Nyajuaya
+20:18:08 From  Benjamin Onyenekwe  to  Everyone:
+	Benjamin Onyenekwe
+20:37:16 From  Moses Bernard  to  Everyone:
+	Is the data reliable, representative and believable.
+20:38:08 From  Ezeizu Vitalis  to  Everyone:
+	Ezeizu Vitalis
+20:40:10 From  Zablon Rioba  to  Everyone:
+	Zablon Rioba
+20:40:42 From  courtney gallant  to  Everyone:
+	I have audio issues.
+20:40:51 From  Otiti Emmanuel  to  Everyone:
+	Juliet and Naomi say something
+20:44:00 From  Ezeizu Vitalis  to  Everyone:
+	Sorry
+20:44:10 From  S. Boadi  to  Everyone:
+	Is ‘removing unwanted columns’ part of tidying
+20:53:07 From  Benjamin Onyenekwe  to  Everyone:
+	Hadley Wickham
+20:54:53 From  Benjamin Onyenekwe  to  Everyone:
+	Tidy Data - data sets that are arranged such that each variable is a column and each observation (or case) is a row.
+21:06:46 From  Benjamin Onyenekwe  to  Everyone:
+	Tidy Data By Hadley Wickham - https://vita.had.co.nz/papers/tidy-data.pdf
+21:08:42 From  Fuad Adebisi  to  Everyone:
+	Yess
+21:31:00 From  Fuad Adebisi  to  Everyone:
+	How are we taking attendance 😬
+21:31:25 From  Kenneth Mambo  to  Everyone:
+	Kenneth Mambo
+21:31:29 From  Cyril Ocloo  to  Everyone:
+	Cyril Ocloo
+21:31:30 From  Fuad Adebisi  to  Everyone:
+	Fuad Adebisi
+21:31:31 From  Juliet Ondisi  to  Everyone:
+	Juliet Ondisi
+21:31:41 From  Murhula Mwambali  to  Everyone:
+	Murhula Mwambali Bienfait
+21:31:45 From  Joshua Nyajuaya  to  Everyone:
+	Joshua abok nyajuaya
+21:32:10 From  Percy Chukwudi  to  Everyone:
+	Percy Chukwudi
+21:42:05 From  Zablon Rioba  to  Everyone:
+	Zablon Rioba
+21:44:55 From  Nndweleni Sundani  to  Everyone:
+	Thanks a lot Sir
+21:45:48 From  Joshua Nyajuaya  to  Everyone:
+	Thanks for the session. That was amazing
+21:46:57 From  Lawrence Krukrubo  to  Everyone:
+	Thank you everyone and have a great week
+21:47:26 From  Joshua Nyajuaya  to  Everyone:
+	Thank you. Bye
+21:55:55 From  Moses Bernard  to  Lawrence Krukrubo(Direct Message):
+	Many thanks sir and uh bon nuit

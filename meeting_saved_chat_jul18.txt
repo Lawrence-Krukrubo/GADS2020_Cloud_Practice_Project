@@ -1,0 +1,83 @@
+19:00:56 From  Nkrumah Dubazana  to  Everyone:
+	Nkrumah Dubazana
+19:03:00 From  Abdulmalik Ismail  to  Everyone:
+	Abdulmalik Ismail
+19:03:03 From  biney derick  to  Everyone:
+	Biney Derick
+19:03:40 From  Gberbie Derick  to  Everyone:
+	Gberbie Derick Tsatsu
+19:03:43 From  Cyril  to  Everyone:
+	Cyril Ocloo
+19:03:54 From  Zablon Rioba  to  Everyone:
+	Zablon Rioba
+19:04:26 From  Nkrumah Dubazana  to  Everyone:
+	People are dying?!
+19:06:43 From  Hubert Madise  to  Everyone:
+	Hubert Ovie Madise
+19:07:11 From  jane mutende  to  Everyone:
+	Jane Wandabwa Mutende
+19:08:55 From  Nndweleni Sundani  to  Everyone:
+	Nndweleni Sundani
+19:15:15 From  Samuel D. Boadi  to  Everyone:
+	Samuel Duah Boadi
+19:19:28 From  Kayode Adedeji  to  Everyone:
+	😂😂😂😂
+19:19:43 From  Kayode Adedeji  to  Everyone:
+	Kayode Adedeji
+19:20:08 From  Motselisi  to  Everyone:
+	Motselisi Leketa
+19:22:19 From  CeeMezla  to  Everyone:
+	Chimezie Ogbuu
+19:22:43 From  Naomi Frank-Opigo  to  Everyone:
+	Naomi Ayibaemi Frank-Opigo
+19:32:31 From  Agunoweh Timiebi  to  Everyone:
+	Agunoweh Timiebi
+19:32:48 From  Benjamin Onyenekwe  to  Everyone:
+	Benjamin Onyenekwe
+19:32:54 From  Ajirotutu Afolabi  to  Everyone:
+	Ajirotutu Lukmon
+19:33:14 From  Kenneth Mambo  to  Everyone:
+	Kenneth Mambo
+19:52:25 From  aguocha gerald  to  Everyone:
+	are we writing out names here ?
+19:52:33 From  aguocha gerald  to  Everyone:
+	*our
+19:52:46 From  Naomi Frank-Opigo  to  Everyone:
+	yes
+19:53:22 From  aguocha gerald  to  Everyone:
+	thanks
+19:53:28 From  aguocha gerald  to  Everyone:
+	Aguocha Gerald
+20:02:07 From  Murhula Mwambali  to  Everyone:
+	Murhula Mwambali Bienfait
+20:11:49 From  Omotola Bankole  to  Everyone:
+	Bankole Omotola
+20:17:38 From  Mark Okaba  to  Everyone:
+	Mark Okaba
+20:25:00 From  Moses Bernard  to  Everyone:
+	Moses Bernard
+20:25:34 From  Emmanuel Bamidele  to  Everyone:
+	Bamidele Emmanuel
+20:26:35 From  Otiti Emmanuel  to  Everyone:
+	Emmanuel Waribo otiti
+20:27:16 From  kelvin mwaka  to  Everyone:
+	Kelvin Mwaka Muia
+20:27:36 From  Joseph  to  Everyone:
+	Joseph kossi Dessouassi
+20:30:57 From  S. Boadi  to  Everyone:
+	So the instructor changed the x scale using 
+	plt.xscale(‘log’).
+	
+	I want know when to use it and not to use it.
+21:03:11 From  Joshua Nyajuaya  to  Everyone:
+	Joshua Abok nyajuaya
+21:05:07 From  Benjamin Onyenekwe  to  Everyone:
+	Log is like a small model of a bigger item that has the same attribute as the bigger item.
+21:09:16 From  Joshua Nyajuaya  to  Everyone:
+	probability
+21:14:44 From  Benjamin Onyenekwe  to  Everyone:
+	Thanks for the session
+21:15:08 From  Nndweleni Sundani  to  Everyone:
+	Thanks
+21:16:42 From  CeeMezla  to  Lawrence Krukrubo(Direct Message):
+	Thank you Mr Law. You are a legend. skipped classes and I am stock at project 2.
